@@ -1,6 +1,6 @@
 # housing-rent-prediction
 
-This is the github repository created for the End to End Machine Learning project done by: <a href="mailto:atlavamsi05@gmail.com">Vamsi Atla
+This is the github repository created for the End to End Machine Learning project done by: <a href="mailto:atlavamsi05@gmail.com">Vamsi Atla, Sowdamini , Arshad Sk, Prathyusha gutta
 
 
 Which involves creating a web app which is able to take inputs and predict house prices in the following cities:
