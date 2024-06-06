@@ -85,10 +85,6 @@ Home - Objects - Encoders(Contains all the label encoders and ordinal encoders f
 ```
 
 App structure<br>
-<img src="https://i.ibb.co/RYzTHYH/ho1me.png" alt="home" border="0">
-<br>
-Home page
-
 * Contains all the links to navigate through the page at the top
 * Contains the information about all cities, where the headings are linked to the page for each city if the user is interested 
 * Contains basic overall analysis for the entire data at the bottom 
