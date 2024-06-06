@@ -85,7 +85,7 @@ Home - Objects - Encoders(Contains all the label encoders and ordinal encoders f
 ```
 
 App structure<br>
-<img src="https://i.ibb.co/RYzTHYH/home.png" alt="home" border="0">
+<img src="https://i.ibb.co/RYzTHYH/ho1me.png" alt="home" border="0">
 <br>
 Home page
 
